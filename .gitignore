@@ -1,0 +1,22 @@
+# أسرار AWS
+.env
+credit.env
+*.env
+.aws/
+
+# ملفات النظام
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env.local
+
+# ملفات المشروع المؤقتة
+data/history.csv
+data/model.joblib
+data/index.html
+data/health_report.txt
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
